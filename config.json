@@ -1,5 +1,6 @@
 
 {   "_coment_": "Enter here api keys to viewdns.info and leak-lookup.com",
-    "viewdns.info_api_key": "",
-    "leak-lookup.com_api_key": ""
+    "viewdns.info_api_key": "enter_here_your_api_key",
+    "leak-lookup.com_api_key": "enter_here_your_api_key"
+
 }
