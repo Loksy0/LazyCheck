@@ -91,7 +91,7 @@ LazyCheck performs all scans locally and only uses public APIs. No data is sent 
 
 ## 💸 Support
 
-If you find LazyCheck useful, consider supporting the author:
+If you find LazyCheck useful, consider supporting me:
 
 - LTC: `ltc1qcylc450gq9nr2gspn3x905kvj6jesmnm0fj8p6`  
 - BTC: `bc1qp52tyf9hykehc4mjexj5ep36asjr0qskywzxtj`  
